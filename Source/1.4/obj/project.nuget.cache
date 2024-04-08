@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwvxXmYFo4qaW9ECS8ZB9BQ3tnngmIrfGSUqtXbxX0UKsPQvuZ3dmh0+0BBlK9S4mvi8Zn+Mav31kkK8L36iDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Rimworld-Mod-ShowMechanoidWeapons\\Source\\1.4\\ShowMechanoidWeapon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10953\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3901\\krafs.rimworld.ref.1.4.3901.nupkg.sha512"
+  ],
+  "logs": []
+}
